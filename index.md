@@ -1,12 +1,12 @@
-# Sapphire
+# SEFire
 
 ## Team Sapphire
 
-Sapphire is a shared expense tracking application designed to help people keep track of shared expenses
+SEFire is a shared expense tracking application designed to help people keep track of shared expenses
 
-### About Sapphire
+### About SEFire
 
-Sapphire allows people to record shared expenses, split costs, and receive reminders for upcoming bills and unpaid expenses.
+SEFire allows people to record shared expenses, split costs, and receive reminders for upcoming bills and unpaid expenses.
 
 ### Team Members
 
